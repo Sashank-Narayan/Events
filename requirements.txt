@@ -1,3 +1,6 @@
+jupyterlab
+pandas
+nbclient
 GoogleNews
 gnewsclient
 snscrape
