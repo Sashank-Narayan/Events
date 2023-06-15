@@ -1,4 +1,4 @@
-  credentials = {
+credentials = {
   "type": "service_account",
   "project_id": "cogent-node-241403",
   "private_key_id": "63e15f2b655e420fdb5da55406113f08fdaebde1",
@@ -10,4 +10,4 @@
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsheets%40cogent-node-241403.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
-  }
+}
